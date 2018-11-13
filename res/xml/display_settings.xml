@@ -158,6 +158,11 @@
         android:summary="@string/status_bar_double_tap_to_sleep_summary"
         android:defaultValue="true" />
 
+    <ListPreference
+        android:key="display_cutout_emulation"
+        android:title="@string/display_cutout_emulation"
+        settings:keywords="@string/display_cutout_emulation_keywords" />
+
     <lineageos.preference.LineageGlobalSettingSwitchPreference
         android:key="wake_when_plugged_or_unplugged"
         android:title="@string/wake_when_plugged_or_unplugged_title"
