@@ -29,4 +29,7 @@
     <color name="qs_tile_icon_active">#FFFFFFFF</color>
     <color name="qs_tile_icon_inactive">#FF656565</color>
 
+    <!-- Suggestion cards -->
+    <color name="suggestion_card_background">#fafafa</color>
+
 </resources>
