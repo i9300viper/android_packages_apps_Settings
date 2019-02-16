@@ -55,6 +55,11 @@
     <string name="qs_tile_style_double_circle">Duplo círculo</string>
     <string name="qs_styles_dialog_title">Selecionar um estilo para QS</string>
 
+    <!-- Switch styles -->
+    <string name="switch_style_title">Estilo dos interruptores</string>
+    <string name="switch_default">Padrão</string>
+    <string name="switch_styles_dialog_title">Selecione um estilo de interruptor</string>
+
     <!-- Volume link notification -->
     <string name="volume_link_notification_title">Vincular volumes de toque &amp; notificação</string>
 

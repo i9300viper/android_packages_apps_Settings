@@ -57,6 +57,13 @@
     <string name="qs_tile_style_double_circle">Double Circle</string>
     <string name="qs_styles_dialog_title">Select a QS tile style</string>
 
+    <!-- Switch styles -->
+    <string name="switch_style_title">Switch style</string>
+    <string name="switch_default">Default</string>
+    <string name="switch_md2">Material Design 2</string>
+    <string name="switch_oneplus">OnePlus</string>
+    <string name="switch_styles_dialog_title">Select a Switch style</string>
+
     <!-- Audio Panel view  -->
     <string name="audio_panel_view_title">Volume panel</string>
     <string name="audio_panel_view_summary">Customize volume panel dialog</string>

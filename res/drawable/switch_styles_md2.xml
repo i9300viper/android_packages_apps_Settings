@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2019 ViperOS Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:width="24dp"
+    android:height="24dp">
+    <path
+        android:pathData="M17 7c2.761424 0 5 2.2385763 5 5 0 2.761424 -2.238576 5 -5 5H7C4.2385763 17 2 14.761424 2 12 2 9.2385763 4.2385763 7 7 7H17M7 9c-1.6568542 0 -3 1.343146 -3 3 0 1.656854 1.3431458 3 3 3h10c1.656854 0 3 -1.343146 3 -3 0 -1.656854 -1.343146 -3 -3 -3z"
+        android:fillColor="@*android:color/accent_device_default_light" />
+    <path
+        android:pathData="M17 9.9999995c1.104569 0 2 0.8954315 2 2.0000005 0 1.104569 -0.895431 2 -2 2 -1.104569 0 -2 -0.895431 -2 -2 0 -1.104569 0.895431 -2.0000005 2 -2.0000005"
+        android:fillColor="@*android:color/accent_device_default_light" />
+</vector>
