@@ -24,7 +24,6 @@ import com.android.settings.R;
 
 public class ViperMaintainerDialogController {
 
-    private static final String VIPER_PROPERTY = "ro.viper.maintainer";
     private static final int VIPER_MAINTAINER_VALUE_ID = R.id.viper_maintainer_value;
     private static final int VIPER_MAINTAINER_LABEL_ID = R.id.viper_maintainer_label;
 
@@ -40,7 +39,7 @@ public class ViperMaintainerDialogController {
 
     public void initialize() {
 
-        mDialog.setText(VIPER_MAINTAINER_VALUE_ID, SystemProperties.get(VIPER_PROPERTY,
-                mContext.getResources().getString(R.string.device_info_default)));
+        mDialog.setText(VIPER_MAINTAINER_VALUE_ID,
+                mContext.getResources().getString(R.string.viper_maintainer_summary));
     }
 }

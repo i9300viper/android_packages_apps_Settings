@@ -78,7 +78,8 @@
     <!-- ViperOS info -->
     <string name="viper_title">ViperOS</string>
     <string name="viper_info">ViperOS version</string>
-    <string name="viper_maintainer">Maintainer</string>
+    <string name="viper_maintainer_title">Maintainer</string>
+    <string name="viper_maintainer_summary">N/A</string>
     <string name="viper_date">Build date</string>
     <string name="viper_type">Build type</string>
     <string name="viper_device">Device</string>

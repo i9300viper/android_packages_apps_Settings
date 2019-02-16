@@ -95,12 +95,13 @@
             android:id="@+id/viper_maintainer_label"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/viper_maintainer"/>
+            android:text="@string/viper_maintainer_title"/>
         <TextView
             style="@style/device_info_dialog_value"
             android:id="@+id/viper_maintainer_value"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"/>
+            android:layout_height="wrap_content"
+            android:text="@string/viper_maintainer_summary"/>
 
     </LinearLayout>
     </ScrollView>
