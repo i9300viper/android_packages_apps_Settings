@@ -86,6 +86,9 @@ public class SwitchStyles extends InstrumentedDialogFragment implements OnClickL
         LinearLayout oneplus = mView.findViewById(R.id.SwitchStyleOneplus);
         setLayout("2", oneplus);
 
+        LinearLayout telegram = mView.findViewById(R.id.SwitchStyleTelegram);
+        setLayout("3", telegram);
+
     }
 
     @Override
@@ -132,6 +135,7 @@ public class SwitchStyles extends InstrumentedDialogFragment implements OnClickL
     private void setAlpha(Resources res) {
         LinearLayout md2 = mView.findViewById(R.id.SwitchStyleMd2);
         LinearLayout oneplus = mView.findViewById(R.id.SwitchStyleOneplus);
+        LinearLayout telegram = mView.findViewById(R.id.SwitchStyleTelegram);
 
         TypedValue typedValue = new TypedValue();
         res.getValue(R.dimen.qs_styles_layout_opacity, typedValue, true);
@@ -140,12 +144,19 @@ public class SwitchStyles extends InstrumentedDialogFragment implements OnClickL
         if (ThemeAccentUtils.isUsingSwitchStyles(mOverlayManager, mCurrentUserId, 1 )) {
             md2.setAlpha((float) 1.0);
             oneplus.setAlpha(mLayoutOpacity);
+            telegram.setAlpha(mLayoutOpacity);
         } else if (ThemeAccentUtils.isUsingSwitchStyles(mOverlayManager, mCurrentUserId, 2 )) {
             md2.setAlpha(mLayoutOpacity);
             oneplus.setAlpha((float) 1.0);
+            telegram.setAlpha(mLayoutOpacity);
+        } else if (ThemeAccentUtils.isUsingSwitchStyles(mOverlayManager, mCurrentUserId, 3 )) {
+            md2.setAlpha(mLayoutOpacity);
+            oneplus.setAlpha(mLayoutOpacity);
+            telegram.setAlpha((float) 1.0);
         } else {
             md2.setAlpha((float) 1.0);
             oneplus.setAlpha((float) 1.0);
+            telegram.setAlpha((float) 1.0);
         }
     }
 }

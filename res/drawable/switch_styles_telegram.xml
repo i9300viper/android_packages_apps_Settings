@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2019 ViperOS Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:width="24dp"
+    android:height="24dp">
+    <path
+        android:pathData="M17.75 7H6.25C3.0743631 7 0.5 9.2385763 0.5 12c0 2.761424 2.5743631 5 5.75 5h11.5c3.175634 0 5.75 -2.238576 5.75 -5 0 -2.7614237 -2.574366 -5 -5.75 -5"
+        android:fillColor="@*android:color/accent_device_default_light" />
+    <group
+        android:translateX="4.39636"
+        android:translateY="3.081847">
+        <path
+            android:pathData="M13.13864 2.9181525c3.313689 0 6 2.686297 6 6 0 3.3136895 -2.686311 6.0000005 -6 6.0000005 -3.3136892 0 -6.0000002 -2.686311 -6.0000002 -6.0000005 0 -3.313703 2.686311 -6 6.0000002 -6"
+            android:fillColor="@*android:color/accent_device_default_light" />
+    </group>
+    <group
+        android:scaleX="0.9083333"
+        android:scaleY="0.9083333"
+        android:translateX="5.661736"
+        android:translateY="3.891345">
+        <path
+            android:pathData="M13.13864 2.9181525c3.313689 0 6 2.686297 6 6 0 3.3136895 -2.686311 6.0000005 -6 6.0000005 -3.3136892 0 -6.0000002 -2.686311 -6.0000002 -6.0000005 0 -3.313703 2.686311 -6 6.0000002 -6"
+            android:fillColor="@*android:color/BottomBarBackground" />
+    </group>
+</vector>

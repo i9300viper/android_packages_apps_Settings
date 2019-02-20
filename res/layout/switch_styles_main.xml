@@ -42,6 +42,8 @@
                 <include layout="@layout/switch_styles_md2" />
 
                 <include layout="@layout/switch_styles_oneplus" />
+				
+                <include layout="@layout/switch_styles_telegram" />
 
             </GridLayout>
 
