@@ -64,6 +64,10 @@
     <string name="switch_oneplus">OnePlus</string>
     <string name="switch_styles_dialog_title">Select a Switch style</string>
 
+    <!-- Lockscreen clock styles -->
+    <string name="clock_ls_style_title">Lockscreen clock style</string>
+    <string name="clock_ls_styles_dialog_title">Select a Lockscreen clock style</string>
+
     <!-- Audio Panel view  -->
     <string name="audio_panel_view_title">Volume panel</string>
     <string name="audio_panel_view_summary">Customize volume panel dialog</string>
