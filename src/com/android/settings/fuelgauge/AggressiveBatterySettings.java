@@ -42,7 +42,7 @@ public class AggressiveBatterySettings extends DashboardFragment {
 
     @Override
     public int getMetricsCategory() {
-        return MetricsEvent.PIXYS;
+        return MetricsEvent.VENOM;
     }
 
     @Override
