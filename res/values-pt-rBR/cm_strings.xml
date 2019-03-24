@@ -261,4 +261,6 @@
     <string name="high_touch_sensitivity_summary">Aumenta a sensibilidade da tela para poder ser usada com luvas</string>
     <string name="touchscreen_hovering_title">Flutuar o dedo na tela</string>
     <string name="touchscreen_hovering_summary">Permite que você flutue o dedo na tela como um mouse em navegadores web, desktops remotos, etc</string>
+    <string name="location_mode_battery_saving_title">Modo de economia de bateria</string>
+    <string name="location_mode_battery_saving_summary">Use apenas Wi\u2011Fi, Bluetooth ou redes móveis para determinar a localização (menos precisa)</string>
 </resources>
