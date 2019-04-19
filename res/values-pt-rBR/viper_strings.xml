@@ -113,4 +113,15 @@
     <string name="battery_stats_charging">Carregando</string>
     <string name="battery_stats_discharging">Descarregando</string>
 
+    <!-- Aggressive battery -->
+    <string name="aggressive_battery_title">Bateria Agressiva</string>
+    <string name="aggressive_battery_summary">Economias de bateria mais rigorosas</string>
+    <string name="aggressive_battery_warning_text">Esses são recursos de economia de energia. Eles podem interferir nos serviços destinados a serem executados em modo inativo, como aplicativos de navegação. Você pode impedir que esses aplicativos sejam afetados nas configurações de bateria do aplicativo.</string>
+    <string name="aggressive_idle_title">Inativo agressivo</string>
+    <string name="aggressive_idle_summary">Insira o dispositivo inativo com mais freqüência e acorde menos</string>
+    <string name="aggressive_standby_title">Standby Agressivo</string>
+    <string name="aggressive_standby_summary">Restringir a execução de aplicativos em segundo plano</string>
+    <string name="aggressive_battery_saver_title">Ativar automaticamente em economia de bateria</string>
+    <string name="aggressive_battery_saver_summary">Ativar bateria agressiva automaticamente ao usar o protetor de bateria</string>
+
 </resources>
