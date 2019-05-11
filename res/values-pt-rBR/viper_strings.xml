@@ -124,4 +124,15 @@
     <string name="aggressive_battery_saver_title">Ativar automaticamente em economia de bateria</string>
     <string name="aggressive_battery_saver_summary">Ativar bateria agressiva automaticamente ao usar o protetor de bateria</string>
 
+
+    <!-- Thermal control per app -->
+    <string name="thermal_control_per_app">Perfil de otimização</string>
+    <string name="thermal_control_per_app_default">Sem otimização</string>
+    <string name="thermal_control_per_app_benchmark">Desempenho</string>
+    <string name="thermal_control_per_app_games">Jogos</string>
+    <string name="thermal_control_per_app_browser">Navegador</string>
+    <string name="thermal_control_per_app_video_playback">Video playback</string>
+    <string name="thermal_control_per_app_dialer">Discador</string>
+    <string name="thermal_control_per_app_camera">Camera</string>
+
 </resources>
